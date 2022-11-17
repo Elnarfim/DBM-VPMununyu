@@ -5,9 +5,9 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: mununyu
-## Version: 2.51
+## Version: 2.52
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: 무뉴뉴 (Korean Female)
 ## X-DBM-Voice-ShortName: Mununyu
-## X-DBM-Voice-Version: 12
+## X-DBM-Voice-Version: 13
 ## X-DBM-Voice-HasCount: 1
